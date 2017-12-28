@@ -1,5 +1,6 @@
 public class Hæ{
     public static void main(String[] args){
-        System.out.println("Hæ heimur");
+        int a = 5;
+        System.out.println(a + "Hæ heimur");
     }
 }
